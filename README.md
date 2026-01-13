@@ -1,4 +1,4 @@
 ## Hi there Im Fadli 👋
 
- 🔭 I'm a Student of Djuanda University
- 🌱 I’m currently learning about the Technology
+ 🔭 I'm a CompSci Student of Djuanda University
+ 
